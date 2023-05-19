@@ -1,7 +1,7 @@
 {
   "name": "custom-hbs-helpers",
   "description": "+130 Handlebars helpers. Open Pull Request to add custom helpers.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/r3iki/custom-hbs-helpers",
   "author": "r3iki (https://github.com/r3iki)",
   "repository": "r3iki/custom-hbs-helpers",
